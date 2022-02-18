@@ -1,0 +1,2 @@
+# smnewstoday
+smnews
