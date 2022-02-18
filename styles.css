@@ -1,0 +1,79 @@
+.smnews {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 20px;
+}
+
+.sports {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 92%;
+  position: absolute;
+  top: 1%;
+}
+
+body {
+  background-color: #0a0a1f;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.text {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  text-emphasis: bold;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+.article {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.chinatree {
+  position: absolute;
+  left: 25px;
+}
+
+.world {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 78%;
+  position: absolute;
+  top: 1%;
+}
+
+.usa {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 86%;
+  position: absolute;
+  top: 1%;
+}
+
+.home {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 70%;
+  position: absolute;
+  top: 1%;
+}
